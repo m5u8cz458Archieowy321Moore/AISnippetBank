@@ -1,0 +1,7 @@
+__pycache__/
+*.env
+data/user_inputs/
+notebooks/*.ipynb_checkpoints/
+models/*.bin
+node_modules/
+build/
